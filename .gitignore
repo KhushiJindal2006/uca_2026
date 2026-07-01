@@ -1,0 +1,8 @@
+# Ignore Java compiled files
+*.class
+
+# Ignore C executable
+main_app
+
+# Ignore VS Code settings
+.vscode/
